@@ -1,6 +1,6 @@
 # Fintech_Mobile_Web_Service-kotlin
-![Javascript](https://img.shields.io/badge/-JavaScript-#F7DF1E?style-flat-square&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/-React-##61DAFB?style-flat-square&logo=React&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style-flat-square&logo=JavaScript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style-flat-square&logo=React&logoColor=white)
 
 ## [KISA 핀테크 아카데미 - 금융 핀테크 서비스 개발 심화과정 참여
 (21.05.24 ~ 21.05.28]
